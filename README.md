@@ -16,13 +16,6 @@ Esta é uma página de homenagem interativa para o Dia das Mães dedicada à Reg
 
 1. Abra o arquivo `index.html` em qualquer navegador moderno
 2. Clique no coração pulsante no centro da tela para revelar a homenagem
-3. Explore o conteúdo especial dedicado à sua mãe Regina
-
-## Personalizações Possíveis
-
-- Substitua as imagens nas classes `.photo1`, `.photo2` e `.photo3` no arquivo CSS por fotos reais da sua mãe
-- Edite o texto na seção do cartão e do poema para mensagens mais pessoais
-- Ajuste as cores na seção `:root` do arquivo CSS caso queira uma paleta diferente
 
 ## Tecnologias Utilizadas
 
